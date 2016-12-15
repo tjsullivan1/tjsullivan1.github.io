@@ -4,4 +4,4 @@ title: "Tim Sullivan, Sys Admin, Launches Site"
 date: 2016-12-14
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be. P.S. I copied this and the templates from http://jmcglone.com/guides/github-pages/
+Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be. P.S. I copied this and the templates from [J McGlone](http://jmcglone.com/guides/github-pages/)
