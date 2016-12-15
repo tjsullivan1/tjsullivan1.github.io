@@ -10,8 +10,8 @@ layout: feed
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://tjsullivan1.github.io/blog</id>
 	<author>
-		<name>Hank Quinlan</name>
-		<email>hankquinlanhub@gmail.com</email>
+		<name>Tim Sullivan</name>
+		<email>timothyj.sullivan1@gmail.com</email>
 	</author>
 
 	{% for post in site.posts %}
