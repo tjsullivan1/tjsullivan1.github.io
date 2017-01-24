@@ -79,6 +79,9 @@ hr.small {
     color: rgba(255, 255, 255, 0.8);
   }
 }
+.selected {
+  color: #81D425 !important;
+}
 @media only screen and (min-width: 1170px) {
   .navbar-custom {
     -webkit-transition: background-color 0.3s;
