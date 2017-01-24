@@ -3,6 +3,7 @@ layout: post
 title: "Hello World, Part Deux!"
 subtitle: "Tim's Second post"
 author: "Tim Sullivan"
+image: "post-bg.jpg"
 ---
 
 # Hello World Two!

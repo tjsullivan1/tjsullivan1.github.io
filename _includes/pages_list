@@ -2,11 +2,11 @@
 	{% if group == null or group == node.group %}
 		{% if page.url == node.url %}
 			<li>
-				<a href="{{node.url}}" class="selected">{{node.title}}</a>
+				<a href="{{node.url}}" class="selected">{{node.navigationTitle}}</a>
 			</li>
 		{% else %}
 			<li>
-				<a href="{{node.url}}">{{node.title}}</a>		
+				<a href="{{node.url}}">{{node.navigationTitle}}</a>		
 			</li>
 		{% endif %}
 	{% endif %}
