@@ -11,7 +11,7 @@
     <meta name="author" content="{{page.author}}">  
     {% endif %}
     {% if page.image %}
-    <meta property="og:image" content="{{page.image | prepend:site.url}}">  
+    <meta property="og:image" content="{{site.url}}/{{page.image}}">  
     {% endif %}
 
     <title>{{ page.title }}</title>
