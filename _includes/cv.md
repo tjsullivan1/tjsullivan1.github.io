@@ -3,7 +3,9 @@
 I am Tim Sullivan, if you need to reach me, feel free to use the [contact page]({{site.url/contact.html}}); otherwise, click the social icons below to connect with me. 
 
 ## Areas of Interest
-a listing of my varied academic interests.
+* Personal Finance
+* Woodworking
+* Real Estate
 
 ## Education
 __MBA__, _University of St. Thomas_ 2016
@@ -150,8 +152,18 @@ _September 2006 - July 2008 (1 year 11 months)_
 * Sullivan, T. (2013, December). _Optimizing Enterprise Desktop Deployment with the Microsoft Deployment Toolkit._ Presentation at GusDay, University of St. Thomas, St. Paul, MN.
 
 ## Training and Self-Study Coursework
+### IT Training
 * [A Cloud Guru AWS Certified Developer Associate](https://acloud.guru/course/aws-certified-developer-associate/dashboard), January 2017
 * [Udemy Create (a) Free Jekyll Blog on Github Pages Like a Ninja](https://www.udemy.com/create-free-jekyll-blog-on-github-pages-like-a-ninja/learn/v4/content), January 2017
 * [A Cloud Guru AWS Certified Solutions Architect Associate](https://acloud.guru/course/aws-certified-solutions-architect-associate/dashboard), January 2017
 * [A Cloud Guru AWS Lambda](https://acloud.guru/course/aws-lambda/dashboard), December 2016
 * [Global Knowledge AWS Technical Essentials](https://www.globalknowledge.com/us-en/course/87573/aws-technical-essentials/), October 2016
+* Mastering Configuration Manager 2012 through Benchmark Learning, January 2012
+
+### Real Estate Training
+* 2016-2017 Required Commissioner's Module: RESIDENTIAL CONTRACTS through Edina Realty, October 2016
+* Real Estate Redefined through the Minneapolis Area Association of Realtors, April 2016
+* [Levels 1, 2 and 3 Bootcamps Bundle: Excel For Real Estate, Real Estate Finance and JV Waterfall Bootcamps](https://www.getrefm.com/shop/self-study/levels-1-2-and-3-bootcamps-bundle-excel-for-real-estate-and-real-estate-finance-bootcamps-self-study-video-tutorials-with-excel-files-levels-1-2-and-3-certification-prep-material-download-to-own/), January 2016
+* What does it mean to be a Realtor&reg;? through the Minneapolis Area Association of Realtors, November 2015
+* 2015-2016 Required Commissioner's Module through Edina Realty, November 2015
+* Edina University through Edina Realty, October 2015
