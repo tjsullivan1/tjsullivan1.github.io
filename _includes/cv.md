@@ -23,6 +23,7 @@ __Associate Director of Infrastructure Services__ at University of St. Thomas
 _May 2016 - Present_
 
 In this role, I:
+
 * Function as a supervisory team lead for four full-time infrastructure analysts and several student workers.
 * Coach others on troubleshooting and an automation-first mindset.
 * Coordinate incident and problem management across teams and technical functions.
@@ -30,16 +31,19 @@ In this role, I:
 * Plan the University's cloud infrastructure deployment.
 
 I still perform many functions of a systems administrator/infrastructure professional including:
+
 * Administer our Forefront Identity Manager system, optimizing our identity management solution for business needs using Banner ERP, Forefront Identity Manager, Active Directory, Azure Active Directory, and Office 365.
 * Create troubleshooting and solutions guides for level 1 & 2 systems administrators, end-user technical support specialists, and triage teams.
 * Automate complex tasks for consistent service delivery.
 * Influence purchasing decisions and act as a technical lead on evaluation projects for new software and hardware solutions.
 
 Building on my previous roles, this position has increased my skills in and knowledge of:
+
 * Management
 * AWS and Azure
 
 In addition, I:
+
 * Performed strategic planning with ITS leadership.
 
 
@@ -55,11 +59,13 @@ __Senior Systems Administrator__ at University of St. Thomas
 _December 2013 - May 2016 (2 years 6 months)_
 
 Focused on:
+
 * Automation
 * Solution delivery
 * Process optimization
 
 As a senior administrator, I:
+
 * Administer our Forefront Identity Manager system, optimizing our identity management solution for business needs.
 * Manage SAN and NAS solutions from several different vendors to best fit end user needs.
 * Manage NetBackup for enterprise systems backup utilizing disk and tape media.
@@ -70,6 +76,7 @@ As a senior administrator, I:
 * Influence purchasing decisions and act as a technical lead on evaluation projects for new software and hardware solutions.
 
 Building on my previous roles, this position has increased my skills in and knowledge of:
+
 * NetApp FAS Filers.
 * Symantec NetBackup 7.
 * VMWare, especially storage limitations and strengths.
@@ -77,6 +84,7 @@ Building on my previous roles, this position has increased my skills in and know
 * Issue isolation.
 
 In addition, I:
+
 * Helped redesign our internal IT project process.
 * Emphasize business outcomes for IT solutions.
 
@@ -152,6 +160,7 @@ _September 2006 - July 2008 (1 year 11 months)_
 * Sullivan, T. (2013, December). _Optimizing Enterprise Desktop Deployment with the Microsoft Deployment Toolkit._ Presentation at GusDay, University of St. Thomas, St. Paul, MN.
 
 ## Training and Self-Study Coursework
+
 ### IT Training
 * [A Cloud Guru AWS Certified Developer Associate](https://acloud.guru/course/aws-certified-developer-associate/dashboard), January 2017
 * [Udemy Create (a) Free Jekyll Blog on Github Pages Like a Ninja](https://www.udemy.com/create-free-jekyll-blog-on-github-pages-like-a-ninja/learn/v4/content), January 2017
