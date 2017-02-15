@@ -1,7 +1,7 @@
 
 ## Me
 
-I am a IT Pro. For the past few years, I had a heavy emphasis on Windows System Administration, PowerShell Automation, Active Directory Administration, and Identity Management. I am brushing up on my Linux and starting to take the leap into the cloud. I am an AWS Certified Solutions Architect - Associate. For more of my history, check out my [Curriculum Vitae]({{site.url}}/cv.html).
+I am an IT Pro. For the past few years, I had a heavy emphasis on Windows System Administration, PowerShell Automation, Active Directory Administration, and Identity Management. I am brushing up on my Linux and starting to take the leap into the cloud. I am an AWS Certified Solutions Architect - Associate. For more of my history, check out my [Curriculum Vitae]({{site.url}}/cv.html).
 
 On the personal side, I enjoy woodworking, cooking, reading, and personal finance.
 
