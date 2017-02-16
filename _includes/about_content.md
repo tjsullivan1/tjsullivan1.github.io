@@ -15,4 +15,4 @@ Here I will include links to series of posts that make up larger projects (some 
 
 ## Disclaimer
 
-All opinions are my own. No discussion of any organization or technology service provider should be interpreted as their endorsement of me or my services unless otherwise stated. Also, that picture at the top... it's not me. I got the formatting for this blog from the Udemy course, [Create Jekyll blog and host it on Github like a Ninja](https://www.udemy.com/create-free-jekyll-blog-on-github-pages-like-a-ninja/learn/v4/overview)
+All opinions are my own. No discussion of any organization or technology service provider should be interpreted as their endorsement of me or my services unless otherwise stated. I got the formatting for this blog from the Udemy course, [Create Jekyll blog and host it on Github like a Ninja](https://www.udemy.com/create-free-jekyll-blog-on-github-pages-like-a-ninja/learn/v4/overview)
