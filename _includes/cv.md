@@ -136,7 +136,7 @@ _September 2006 - July 2008 (1 year 11 months)_
 * Solved complex issues dealing with Windows and Mac OSX, computer networking, and audio/visual systems in support of full time employees.
 * Provided outstanding customer service, caring for the day-to-day needs of customers by using tools such as Active Directory and Banner to reset passwords, to check permissions and security groups, and to verify identities.
 
-## Grants, Honors and Awards
+## Honors and Awards
 * Inducted into [Beta Gamma Sigma Honor Society](https://www.betagammasigma.org/about-bgs) as part of my MBA
 * BA _Summa Cum Laude_
 * Dean's List 2006-2010
@@ -154,7 +154,7 @@ _September 2006 - July 2008 (1 year 11 months)_
 * National Association of Realtors&reg;
 * Minneapolis Area Association of Realtors&reg;
 
-## Publications and Presentations
+## Presentations
 * Gifford, N.; Niznik, J.; Sullivan, T. (2016, November). _Identity Management using Microsoft FIM._ Presentation at the Upper Midwest Banner User Group (UMBUG), University of St. Thomas, Minneapolis, MN.
 * Griffin, K.; Sullivan, T. (2016, February). _Data Backup Solutions for Servers & Desktops._ Presentation at GusDay, Gustavus Adolphus College, St. Peter, MN.
 * Sullivan, T. (2013, December). _Optimizing Enterprise Desktop Deployment with the Microsoft Deployment Toolkit._ Presentation at GusDay, University of St. Thomas, St. Paul, MN.
