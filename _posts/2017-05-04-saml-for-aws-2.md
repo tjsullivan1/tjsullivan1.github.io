@@ -57,7 +57,7 @@ Selection:
 As you can see, we have roles appearing for our two accounts that were configured, and they map back to several AD groups that contain the AD account for the federated user authenticating. Once a selection has been made, if the script executes successfully, we output a helper message:
 {% highlight python %} 
 ----------------------------------------------------------------
-Your new access key pair has been stored in the AWS configuration file C:\\Users\\tjsullivan1\\.aws\\credentials under the saml profile.
+Your new access key pair has been stored in the AWS configuration file C:\Users\tjsullivan1\.aws\credentials under the saml profile.
 Note that it will expire at 2017-05-02 22:54:10+00:00.
 After this time, you may safely rerun this script to refresh your access key pair.
 To use this credential, call the AWS CLI with the --profile option (e.g. aws --profile saml ec2 describe-instances).
