@@ -7,7 +7,7 @@ On the personal side, I enjoy woodworking, cooking, reading, and personal financ
 
 ## The Blog
 
-I am an Oos guy working on my automation, cloud, and programming skills. This blog will serve as a document repository as well as an explanation of the things that I am currently learning (Infrastructure as Code, AWS, Infrastructure Automation, Python).
+I am an ops guy working on my automation, cloud, and programming skills. This blog will serve as a document repository as well as an explanation of the things that I am currently learning (Infrastructure as Code, AWS, Infrastructure Automation, Python).
 
 ## Projects
 
