@@ -10,7 +10,7 @@ image: "post-bg.jpg"
 I am going to assume that your AWS SAML configuration is complete, and this will be much more bulleted than other posts. You also must be in at least one AD group assigned to a AWS role
 
 ## Console
-* To log into the console, go to your ADFS Server's IDP initiatied sign on page: [https://<ADFS_SERVER>/adfs/ls/IdpInitiatedSignOn.aspx?loginToRp=urn:amazon:webservices](https://<ADFS_SERVER>/adfs/ls/IdpInitiatedSignOn.aspx?loginToRp=urn:amazon:webservices)
+* To log into the console, go to your ADFS Server's IDP initiatied sign on page: [https://\<ADFS_SERVER\>/adfs/ls/IdpInitiatedSignOn.aspx?loginToRp=urn:amazon:webservices](https://\<ADFS_SERVER\>/adfs/ls/IdpInitiatedSignOn.aspx?loginToRp=urn:amazon:webservices)
 
 ## CLI 
 * To log into the cli, install Python 3
@@ -20,7 +20,7 @@ I am going to assume that your AWS SAML configuration is complete, and this will
 * Download the [auth script](https://gist.github.com/tjsullivan1/200ffd6873b8e9d9497cd3d26f26897b/archive/9124a7b12be33b572a049d8c191a62e9b9d78845.zip)
 * Replace line 37 with the URL of your ADFS Server.
 * Run "python aws_saml_auth.py" to login with your AD credentials (upn/password)
-* Run AWS commands with the following syntax "aws --profile=saml <cmd>"
+* Run AWS commands with the following syntax "aws --profile=saml \<cmd\>"
 
 ## Git
 * Configure CLI first
