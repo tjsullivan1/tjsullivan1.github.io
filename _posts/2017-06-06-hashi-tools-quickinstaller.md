@@ -25,7 +25,7 @@ Finally, we loop through our dictionary and build the URL for each product. We t
 You will need Python 3 to run this script. 
 
 ## Windows
-On Windows, you will need to make C:\Test part of your path. There are numerous guides on how to modify the path manually on the internet. The quickest way I have found is to launch PowerShell as an admin and run: `[Environment]::SetEnvironmntVariable("Path", $env:Path + ";C:\Tools\", [EnvironmentVariableTarget]::Machine)`. If you have a good, clean way to do this with Python, [let me know](https://tjsullivan1.github.io/contact)!
+On Windows, you will need to make C:\Test part of your path. There are numerous guides on how to modify the path manually on the internet. The quickest way I have found is to launch PowerShell as an admin and run: `[Environment]::SetEnvironmentVariable("Path", $env:Path + ";C:\Tools\", [EnvironmentVariableTarget]::Machine)`. If you have a good, clean way to do this with Python, [let me know](https://tjsullivan1.github.io/contact)!
 
 Then, to invoke the script, you can run `python install_hashi_tools.py`. Note, this script will create a log file in the invocation directory. 
 
