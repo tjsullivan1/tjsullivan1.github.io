@@ -18,9 +18,13 @@ Coursework emphasis: Latin and Greek
 
 
 ## Professional Experience
+__Cloud Architect__ at University of St. Thomas
+
+_July 2017 - Present_
+
 __Associate Director of Infrastructure Services__ at University of St. Thomas
 
-_May 2016 - Present_
+_May 2016 - July 2017_
 
 In this role, I:
 
@@ -150,6 +154,7 @@ _September 2006 - July 2008 (1 year 11 months)_
 * [REFM Certification in Excel for Real Estate – Levels 1, 2, 3](https://www.getrefm.com/holders-of-refm-certification-in-excel-for-real-estate/)
 
 ## Professional Memberships
+* [League of Professional System Administrators](https://lopsa.org)
 * [Electronic Frontier Foundation](https://www.eff.org)
 * National Association of Realtors&reg;
 * Minneapolis Area Association of Realtors&reg;
