@@ -12,7 +12,7 @@ You may have seen some previous posts on my blog regarding configuring a git env
 
 # The Solution
 
-First, I tested this with Vagrant 2.0 and Virtual Box 5. You will need to install both of those in order to get this to work. Next, clone or download my Git repo `git clone https://github.com/tjsullivan1/its-vagrant-box`. From here, standard Vagrant commands will go a long way. To build your environment, open a command prompt or shell and change directories into the folder called 'its-vagrant-box'. Run `vagrant up`. This command will build the vagrant box by reading the Vagrantfile and will take several minutes to complete.
+First, I tested this with Vagrant 2.0 and Virtual Box 5.1.30. You will need to install both of those in order to get this to work. Next, clone or download my Git repo `git clone https://github.com/tjsullivan1/its-vagrant-box`. From here, standard Vagrant commands will go a long way. To build your environment, open a command prompt or shell and change directories into the folder called 'its-vagrant-box'. Run `vagrant up`. This command will build the vagrant box by reading the Vagrantfile and will take several minutes to complete.
 
 In the Vagrantfile, you will see that we are using a shell provisioner to execute the install.sh script. This script installs Python and dos2unix; updates pip to version 9; clones a gist that will download and install the Hashicorp tools; clones a git repo with the AWS auth python script; and uses pip to install the prerequisites for that script. Once that is done, you are ready to use the Vagrant box! Simply type `vagrant ssh` and you will be connected to your new guest OS.
 
