@@ -16,7 +16,7 @@ I am going to assume that your AWS SAML configuration is complete, and this will
 * To log into the cli, install Python 3
    * Depending on your OS, this may involve downloading the package from [python.org](https://www.python.org/downloads/) or installing via package manager
 * Make sure that pip is installed for your version of Python
-* Run (as an admin) "pip install boto3 bs4 awscli requests configparser lxml"
+* Run (as an admin) "pip install boto3 bs4 awscli requests configparser lxml plac"
 * Download the [auth script](ttps://gist.github.com/tjsullivan1/200ffd6873b8e9d9497cd3d26f26897b)
 * Replace line 37 with the URL of your ADFS Server.
 * Run "python aws_saml_auth.py" to login with your AD credentials (upn/password)
