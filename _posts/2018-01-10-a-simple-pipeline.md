@@ -1,3 +1,11 @@
+---
+layout: post
+title: "A Simple Pipeline"
+subtitle: "My First Foray Into Automated Deployment"
+author: "Tim Sullivan"
+image: "post-bg.jpg"
+---
+
 # The Challenge
 
 As I have started building Elastic Beanstalk environments for developers in my organization, I have grown tired of redeploying files with their source code. We don't have any CI/CD pipelines or automated deployment methods in the cloud (we have a homegrown tool on-prem that will copy a war file to production after a developer submits a page in our TWiki), so this is very likely not the best method of doing this. Also, because we have never done CI/CD, we don't have great testing (if any), and this pipeline will reflect that. Since AWS is our cloud provider of choice, I decided to look at the native tooling and built myself a simple pipeline that will rebuild a PHP Elastic Beanstalk environment upon a commit to the master branch of an AWS CodeComit repository.
