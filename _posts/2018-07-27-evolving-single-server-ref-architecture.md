@@ -17,7 +17,7 @@ Terraform allows a developer to separate the configuration into as many .tf or .
 - backend.tf: The same as described in my other documents. This file specifies to Terraform where to store the state and how to lock the state file.
 - main.tf: The static build of this architecture (e.g., the single server and single security group base resources) is put here. This file will not need to be modified by a developer if they copy from a different directory.
 - user-data.sh: This file is separate from Terraform, but is used at instance deployment for configuration purposes.
-- variables.tf: This file contains all of my variable data contained within a "locals" block. This is the only file that will need to be modified, and it will result in less chance of the refence architecture breaking.
+- variables.tf: This file contains all of my variable data contained within a "locals" block. This is the only file that will need to be modified, and it will result in less chance of the reference architecture breaking.
 
 # The Locals
 
