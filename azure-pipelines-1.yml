@@ -16,7 +16,9 @@ steps:
     echo Add other tasks to build, test, and deploy your project.
     echo See https://aka.ms/yaml
 
+    uname -a
     uname -a >> /tmp/azdo.log
+    date
     date >> /tmp/azdo.log
     
   displayName: 'Run a multi-line script'
